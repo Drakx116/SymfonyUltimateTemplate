@@ -1,0 +1,9 @@
+###> global ###
+.idea/
+
+###> symfony/framework-bundle ###
+/.env
+/config/secrets/prod/prod.decrypt.private.php
+/public/bundles/
+/var/
+/vendor/
